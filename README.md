@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/React-Expert-orange)
 ![Next.js](https://img.shields.io/badge/Next.js-Expert-blue)
 
-I’am a Software Engineer living in Bangladesh experienced in building responsive, accessible websites and web application using Javascript, React and Next.js. 
+I’m a Software Engineer living in Bangladesh experienced in building responsive, accessible websites and web application using Javascript, React and Next.js. 
 
 
 - 🔭 I’m currently working at [bracIT](http://www.bracits.com/)
