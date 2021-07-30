@@ -21,10 +21,23 @@ I’am a Software Engineer living in Bangladesh experienced in building responsi
 - Vue, Vuex, Vue-Router
 - Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
 
-### 🔧 Tool
-- Version Control
+
+### 📫 Services
+- Github, Gitlab
+- npm, dockerhub
+- Netlify, Vercel, Heroku
+- Digital Ocean
+
+
+
+### 🔧  Tools
+- Version Control, Docker
 - Travis-CI
-- Visual Studio Code
+- Visual Studio Code, Atom
+
+<br/>
+
+
 
 ### Get in Touch
 <a href="https://facebook.com/shafikulz" target="_blank">
