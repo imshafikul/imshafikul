@@ -1,5 +1,13 @@
 # Hi there 👋 I'm [Shafikul](http://shafikul.me/)
 
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![React](https://img.shields.io/badge/React-Expert-orange)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-blue)
+
 I’am a Software Engineer living in Bangladesh experienced in building responsive, accessible websites and web application using Javascript, React and Next.js. 
 
 
