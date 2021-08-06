@@ -12,7 +12,7 @@ I’m a Software Engineer living in Bangladesh experienced in building responsiv
 
 
 - 🔭 I’m currently working at [bracIT](http://www.bracits.com/)
-- 🔭 I’m currently working on [react-shimmer-effects](https://github.com/shafikulz/react-shimmer-effects), [react-excel-download](https://github.com/shafikulz/react-excel-download)
+- 🖥 I’m currently working on [react-shimmer-effects](https://github.com/shafikulz/react-shimmer-effects), [react-excel-download](https://github.com/shafikulz/react-excel-download)
 - 🌱 I’m currently learning Typescript and Web Security
 - ⚙️ I use daily `.js` `.html` `.css` `.svg` `figma` `sketch`
 - 👯 I’m looking to collaborate on Open Source Projects.
