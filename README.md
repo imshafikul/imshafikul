@@ -55,11 +55,8 @@ I’m a Software Engineer living in Bangladesh experienced in building responsiv
 <a href="https://twitter.com/shafikulz" target="_blank">
   <img align="left" alt="Shafikul Islam - Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
-<a href="https://linkedin.com/in/shafikulz" target="_blank">
+<a href="https://www.linkedin.com/in/imshafikul/" target="_blank">
   <img align="left" alt="Shafikul Islam - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
-</a>
-<a href="https://dev.to/shafikulz" target="_blank">
-  <img align="left"  alt="Shafikul Islam - DEV" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="20px">
 </a>
 
 
