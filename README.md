@@ -11,7 +11,8 @@
 I’m a Software Engineer living in Bangladesh experienced in building responsive, accessible websites and web application using Javascript, React and Next.js. 
 
 
-- 🔭 I’m currently working at [bracIT](http://www.bracits.com/)
+- 🔭 I’m currently working at [FRIENDS CORP.
+](https://teamfriends.co.jp/)
 - 🖥 I’m currently working on [react-shimmer-effects](https://github.com/shafikulz/react-shimmer-effects), [react-excel-download](https://github.com/shafikulz/react-excel-download)
 - 🌱 I’m currently learning Typescript and Web Security
 - ⚙️ I use daily `.js` `.html` `.css` `.svg` `figma` `sketch`
