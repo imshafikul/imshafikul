@@ -60,3 +60,16 @@ I’m a Software Engineer living in Bangladesh experienced in building responsiv
 </a>
 
 
+<br clear="left"/>
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by! ✨</b><br/>
+  <sub>
+    🌐 <a href="http://shafikul.me/">shafikul.me</a> ·
+    💼 <a href="https://www.linkedin.com/in/imshafikul/">LinkedIn</a> ·
+    🐙 <a href="https://github.com/imshafikul">GitHub</a>
+  </sub><br/>
+  <sub>Made with ❤️ in Bangladesh</sub>
+</p>
